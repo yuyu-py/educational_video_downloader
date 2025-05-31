@@ -1,0 +1,2 @@
+# educational_video_downloader
+Internet Archiveから教育動画を効率的にダウンロードするPythonツール
